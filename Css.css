@@ -64,6 +64,36 @@ footer span{
     display: block;
 }
 
+#pic2{
+    padding-left: 550px;
+    margin-top: 97px;
+    height: 530px;
+    width: 245px;
+    z-index: 2;
+    position: fixed;
+    display: block;
+}
+
+#pic3{
+    padding-left: 550px;
+    margin-top: 97px;
+    height: 530px;
+    width: 245px;
+    z-index: 2;
+    position: fixed;
+    display: block;
+}
+
+#pic4{
+    padding-left: 550px;
+    margin-top: 97px;
+    height: 530px;
+    width: 245px;
+    z-index: 2;
+    position: fixed;
+    display: block;
+}
+
 #ins{
     position: fixed;
     display: block;
@@ -101,9 +131,4 @@ footer span{
     text-align: center;
     background-color: aqua;
     border-radius: 8px;
-}
-
-#or{
-    margin-top: 345px;
-    margin-right: 200px;
 }
